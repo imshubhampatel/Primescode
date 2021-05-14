@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 👋🏻
+📌 I am **Shubham Patel**, Currently learning Web Development and building exciting Projects.
+<br />
+📌 I consistently keep learning to excel in my skills. 
+<br />
+📌 I am currently learnng React JS 
+<br />
+<br />
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=primescode&count_private=true)
+<br />
+<br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=primescode&langs_count=8)
+<br />
+<br />
 
-<!--
-**Primescode/Primescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
