@@ -3,7 +3,7 @@
 <br />
 📌 I consistently keep learning to excel in my skills. 
 <br />
-📌 I am currently learnng React JS 
+📌 I am currently learning React JS 
 <br />
 <br />
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=primescode&count_private=true)
